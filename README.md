@@ -1,6 +1,4 @@
 # BLIP_Programming_Language
-Created a interpreter for the BLIP Programming Languague in C++ using expression trees and other data strucutres and algorithms.
-
 
 The Blip Language, var, set, output and text commands: We ask that you implement
 four language statements. Two of these (var and set) are for creating and assignment
